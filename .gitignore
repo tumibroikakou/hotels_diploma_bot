@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+/db.sqlite3
+/.env
+/run_bot.bat
+/presentation.md
+/presentation.pptx
